@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "title": "A",
+      "post": "Test1",
+      "createdate": "2021/03/17",
+      "id": 1
+    },
+    {
+      "title": "B",
+      "post": "Test2",
+      "createdate": "2021/03/17",
+      "id": 2
+    },
+    {
+      "title": "C",
+      "post": "Test3",
+      "createdate": "2021/03/17",
+      "id": 3
+    },
+    {
+      "title": "D",
+      "post": "Test4",
+      "createdate": "2021/03/17",
+      "id": 4
+    },
+    {
+      "title": "E",
+      "post": "Test5",
+      "createdate": "2021/03/17",
+      "id": 5
+    },
+    {
+      "title": "F",
+      "post": "Test6",
+      "createdate": "2021/03/17",
+      "id": 6
+    },
+    {
+      "title": "G",
+      "post": "Test7",
+      "createdate": "2021/03/17",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
